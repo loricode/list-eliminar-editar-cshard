@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\bin\Debug\net5.0\listPersonApp.exe
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\bin\Debug\net5.0\listPersonApp.deps.json
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\bin\Debug\net5.0\listPersonApp.runtimeconfig.json
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\bin\Debug\net5.0\listPersonApp.runtimeconfig.dev.json
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\bin\Debug\net5.0\listPersonApp.dll
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\bin\Debug\net5.0\ref\listPersonApp.dll
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\bin\Debug\net5.0\listPersonApp.pdb
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\obj\Debug\net5.0\listPersonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\obj\Debug\net5.0\listPersonApp.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\obj\Debug\net5.0\listPersonApp.AssemblyInfo.cs
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\obj\Debug\net5.0\listPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\obj\Debug\net5.0\listPersonApp.dll
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\obj\Debug\net5.0\ref\listPersonApp.dll
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\obj\Debug\net5.0\listPersonApp.pdb
+C:\Users\angel\source\repos\listPersonApp\listPersonApp\obj\Debug\net5.0\listPersonApp.genruntimeconfig.cache
